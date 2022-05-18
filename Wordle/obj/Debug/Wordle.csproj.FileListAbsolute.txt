@@ -1,0 +1,22 @@
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\bin\Debug\Wordle.exe.config
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\bin\Debug\Wordle.exe
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\bin\Debug\Wordle.pdb
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.exe
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.pdb
+C:\Users\dimak\Desktop\calculator\Новая папка\Wordle\obj\Debug\Wordle.Wordle.resources
+D:\Wordle\Wordle\bin\Debug\Wordle.exe.config
+D:\Wordle\Wordle\bin\Debug\Wordle.exe
+D:\Wordle\Wordle\bin\Debug\Wordle.pdb
+D:\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\Wordle\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+D:\Wordle\Wordle\obj\Debug\Wordle.Wordle.resources
+D:\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+D:\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\Wordle\Wordle\obj\Debug\Wordle.exe
+D:\Wordle\Wordle\obj\Debug\Wordle.pdb
